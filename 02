@@ -1,0 +1,8 @@
+# Solution - Level 2 -> Level 3
+
+```
+bandit2@melinda:~$ ls
+spaces in this filename
+bandit2@melinda:~$ cat spaces\ in\ this\ filename
+UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+```
