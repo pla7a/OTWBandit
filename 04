@@ -1,0 +1,17 @@
+# Solution - Level 4 -> Level 5
+
+```
+bandit4@melinda:~$ ls
+inhere
+bandit4@melinda:~$ cd inhere
+bandit4@melinda:~/inhere$ ls
+-file00  -file02  -file04  -file06  -file08
+-file01  -file03  -file05  -file07  -file09
+bandit4@melinda:~/inhere$ less ./-file09
+"./-file09" may be a binary file.  See it anyway? 
+bandit4@melinda:~/inhere$ less ./-file08 
+"./-file08" may be a binary file.  See it anyway? 
+bandit4@melinda:~/inhere$ less ./-file07
+bandit4@melinda:~/inhere$ cat ./-file07
+koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+```
